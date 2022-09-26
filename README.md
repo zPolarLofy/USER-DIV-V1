@@ -4,8 +4,6 @@
 Conceitos básicos
 
 
-![foto](https://user-images.githubusercontent.com/113463089/191644913-5e37fea8-c0a8-4f4e-90bb-4492aee41623.png)
-
 <br><br>
 💢 - <b>Fazer o Download do Node.js pois é necessário para o script funcionar. <p> 
 💢 ( OBS : CASO NÃO INSTALE O NODE JS, O SYNAPSE NÃO VAI ABRIR. ) 💢<P>
